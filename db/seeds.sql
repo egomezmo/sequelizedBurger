@@ -1,0 +1,10 @@
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger01', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger02', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger03', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger04', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger05', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger06', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger07', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger08', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger09', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger10', true);
